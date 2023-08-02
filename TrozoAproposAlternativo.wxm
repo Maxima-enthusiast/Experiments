@@ -1,0 +1,235 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(a)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(b)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(c)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(d)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(f)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(g)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(h)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(i)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(j)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(k)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(l)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(m)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(n)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(o)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(p)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(q)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(r)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(s)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(t)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(u)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(v)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(w)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(x)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(y)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,makelist(%th(i),i,1,2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos(z);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,%th(2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%th(7),%th(11)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%th(16),%th(20)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%th(25),%th(29)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,%th(2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%th(4),%th(5)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,%th(2)))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort(unique(flatten(append(%,%o5))));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+length(%);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+table_form(%th(2));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos("");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+describe()
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

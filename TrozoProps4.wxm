@@ -1,0 +1,31 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+props$
+block(L2:[],for i from 1 thru length(%)-1 do push(striml("<value>",part(%,i)),L2),L2)$
+block(L1:[],for i from 1 thru length(%) do push(strimr("</value>",part(%,i)),L1),L1)$
+append(rest(%,-14),lastn(%,12))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+L3:rest(unique(flatten(map(apropos,%))),-2)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos("_")$
+firstn(rest(%,735),2)$
+append(L3,%,rest(apropos(wxmaxima),-1))$
+sort(%);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+map(properties,%);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

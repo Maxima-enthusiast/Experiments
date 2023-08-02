@@ -1,0 +1,55 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+features;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+opproperties;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[additive,alphabetic,antisymmetric,commutative,complex,constant,decreasing,even,evenfun,imaginary,increasing,integer,integervalued,irrational,lassociative,linear];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[multiplicative,mainvar,nary,nonarray,noninteger,nonscalar,noun,odd,oddfun,outative,posfun,rassociative,rational,scalar,symmetric];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[alphacharp,alphanumericp,atom,bfloatp,blockmatrixp,cequal,cequalignore,charp,constantp,constituent,digitcharp,disjointp,diagmatrixp,elementp,emptyp,evenp,featurep,floatnump,integerp,listp,lowercasep,mapatom,matrixp,member,nonnegintegerp,nonscalarp,numberp];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[oddp,operatorp,ordergreatp,orderlessp,picturep,polynomialp,primep,ratnump,ratp,scalarp,sequal,sequalignore,setequalp,setp,stringp,subsetp,subvarp,symbolp,symmetricp,uppercasep,zeromatrixp,zn_primeroot_p];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[askinteger,asksign,printprops,properties];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+["integrate","next","from","diff","in","at","limit","sum","for","and","elseif","then","else","do","or","if","unless","product","while","thru","step"];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+apropos();
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+length(apropos(""));
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

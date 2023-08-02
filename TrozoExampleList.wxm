@@ -1,0 +1,23 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+infolists;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+[additive,algsys,allroots,antisymmetric,append,arrayinfo,"arrays",at,atvalue,augcoefmatrix,bezout,"block","bothcoeff",catch,cf,cfdisrep,
+    cfexpand,changevar,charpoly,coeff,combine,commutative,complex,content,defmatch,deftaylor,delete,depends,derivdegree,desolve,
+    diff,display,divide,"do","dotscrules",dpart,echelon,eliminate,entermatrix,equations,ev,evaluation,evenfun,exp,expand,factcomb,factor,
+    factorsum,featurep,freeof,fullmap,fullmapl,funcsolve,"functions",genmatrix,get,gfactor,gradef,horner,"if",ilt,inpart,integrate,is,isolate,
+    lambda,laplace,lassociative,let,letrules,limit,linear,linsolve,listofvars,lists,logcontract,map,matchdeclare,matrices,minfactorial,multiplicative,
+    multthru,nary,nounify,nroots,numfactor,nusum,oddfun,ode2,optimize,ordergreat,orderless,outative,part,partfrac,partition,pickapart,poissimp,
+    polarform,poly_discriminant,posfun,powerseries,printprops,product,properties,propvars,qunit,radcan,rank,rassociative,rat,"ratcoeff",ratdiff,
+    "ratexpand",ratsimp,ratsubst,ratweight,realpart,realroots,residue,resultant,reveal,reverse,risch,rootscontract,scanmap,scsimp,solve,specint,
+    sqfr,subst,substinpart,substpart,sum,symmetric,syntax,taylor,taytorat,tellrat,tellsimp,triangularize,trig,"trigexpand",trigreduce,unorder,xthru,zeroequiv];
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

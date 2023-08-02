@@ -1,0 +1,17 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+block(L1:[],L2:apropos(""),map(properties,%%),for i from 1 thru length(%%) do 
+     if member("complex characteristic",part(%%,i))=true then push(part(L2,i),L1),reverse(L1));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+block(L:map(apropos,%),L1:[],for i from 1 thru length(L) do push(map(properties,L[i]),L1),L2:reverse(L1),L3:[],
+    for i from 1 thru length(L2) do for j from 1 thru length(L2[i]) do if member(transfun,L2[i][j]) then push(L[i][j],L3),unique(reverse(L3)));
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

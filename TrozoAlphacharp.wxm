@@ -1,0 +1,11 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+block(L:[],L1:apropos("$"),map(string,%%),sublist_indices(%%,charp),L2:makelist(L1[i],i,%%),L3:map(properties,%%),
+    for i from 1 thru length (L2) do if not member("system value",L3[i]) then push(L2[i],L),reverse(L));
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

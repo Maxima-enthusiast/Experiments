@@ -1,0 +1,605 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+"<value>pdiff_diff_var_names</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pdiff_uses_named_subscripts_for_derivatives</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pdiff_prime_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pdiff_uses_prime_for_derivatives</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>wxplot_old_gnuplot</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>maxima_objdir</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>maxima_userdir</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>maxima_tempdir</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>expand_polynomials</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>prefer_gamma_incomplete</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>prefer_whittaker</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>prefer_d</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>invert_by_adjoint_size_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>invert_method</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>hypergeometric_representation</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>erf_%iargs</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>erf_representation</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>beta_expand</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>factorial_expand</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>maxmin_effort</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_zech_logs</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_logs</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_powers</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ef_coeff_exp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ef_coeff_inv</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ef_coeff_add</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ef_coeff_mult</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_cantor_zassenhaus</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_coeff_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_balanced</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_symmetric</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gf_rat</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>zn_primroot_pretest</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>zn_primroot_verbose</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>zn_primroot_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>timer_devalue</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>trace_max_indent</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>trace_break_arg</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>trace_safety</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>%rnum_list</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>matrix_element_transpose</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>matrix_element_add</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>matrix_element_mult</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>linsolve_params</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>taylor_order_coefficients</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>taylor_simplifier</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>taylor_logexpand</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>taylor_truncate_polynomials</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>integration_constant</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>integration_constant_counter</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>known_index_properties</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>display_format_internal</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>fast_bfloat_threshold</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>fast_bfloat_conversion</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>report_synerr_info</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>report_synerr_line</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>find_root_error</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>find_root_rel</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>find_root_abs</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>bessel_reduce</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>assume_pos_pred</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>assume_pos</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>let_rule_packages</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>current_let_rule_package</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>default_let_rule_package</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>announce_rules_firing</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_bad_function_calls</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>mode_check_errorp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>mode_check_warnp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>mode_checkp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_float_can_branch_complex</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_state_vars</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_true_name_of_file_being_translated</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_file_tty_messagesp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_bound_function_applyp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_optimize_max_loop</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_numer</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_array_as_ref</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_function_call_default</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_undefined_variable</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_mode</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_fexpr</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_meval</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>tr_warn_undeclared</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>homog_hack</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>factor_max_degree_print_warning</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>factor_max_degree</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>factors_only</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ifactor_verbose</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ecm_limit_delta</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ecm_max_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ecm_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>ecm_number_of_curves</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_pm1_limit_step</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_rho_limit_step</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_pm1_tests</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_rho_tests</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_pm1_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>pollard_rho_limit</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>primep_number_of_tests</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>save_primes</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>file_output_append</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>float_approx_equal_tolerance</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>file_type_maxima</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>file_type_lisp</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>load_pathname</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>__</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>_</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>beta_args_sum_to_integer</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>gamma_expand</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>bigfloat_log2</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>distribute_over</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>%e_to_numlog</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>numer_pbranch</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>use_fast_arrays</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>vect_cross</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>isolate_wrt_times</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>error_syms</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>error_size</value>"
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+"<value>sublis_apply_lambda</value>"
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

@@ -1,0 +1,570 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+demo(absimp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ademo);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(adsitter);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(allnutt);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(amatrix);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(antid);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(atensor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(bianchi);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(bradic);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(car_iden);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(cartan);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(cf);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(combinatorics);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor3);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor4);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor5);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor6);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor7);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ctensor8);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(dblint);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(dblint_1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(declin);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(defm);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(delta);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(demo);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(diffeq);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(dimen);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(disol);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(draw_gnuplot);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(eaton1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(eaton2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(eigen);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(eigen_1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(einhil);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ex_calc);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ezgcd);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ezunits);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(facexp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(fft);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(fourie);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(friedmann);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(functs);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(godel);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(h_atom);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(helicity);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(hodge);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(hydro);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(hypgeo);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(ineq);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor3);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor4);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor5);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor6);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor7);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor8);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(itensor9);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(kaluza);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(keyarg);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(killing);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(kruskal);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(laplacian);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(levin);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(linearalgebra);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(logic);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(lrats);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(macex);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(macro);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(maxwell);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(nchrpl);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(newfac);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optmiz);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optmiz_1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optmiz_2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optmiz_3);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optmiz_4);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optvar);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optvar_1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(optvar_2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(papapetrou);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(petrov);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(pfaff);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(plasma);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(qual);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(rainich);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(rducon);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(recur);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(reissner);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(rkf45);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(rncomb);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(romberg);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(schwarz);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(scifac);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(seqopt);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(simpsn);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(solve_rec);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(spinor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(stopex);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(submac);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(sumcon);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(taubnut);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(tensor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(tetrad);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(trgsmp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(variational_method);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(vect);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(vector);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(vector3d);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(weyl);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+demo(wrstcse);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

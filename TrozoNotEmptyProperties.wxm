@@ -1,0 +1,32 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+/*[assign property,conjugate function,database info,distributes over bags,evflag,evfun,feature,function,gradef,integral,limit function,
+    mirror symmetry,nary,noun,numer,operator,rule,special evaluation form,system function,system value,transfun,transload,user properties];*/;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+block(L1:[],L2:apropos(""),map(properties,%%),for i from 1 thru length(%%) do 
+    if part(%%,i)#[] /*and member("limit function",part(%%,i))=false*/ then push(part(L2,i),L1),L1);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+length(%);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*map(properties,%);*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*map(describe,%th(2));*/
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

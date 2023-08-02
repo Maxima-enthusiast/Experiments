@@ -1,0 +1,764 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+example(additive);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(algsys);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(allroots);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(antisymmetric);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(append);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(arrayinfo);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(arrays);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(at);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(atvalue);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(augcoefmatrix);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(bezout);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example("block");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example("bothcoeff");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(catch);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(cf);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(cfdisrep);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(cfexpand);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(changevar);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(charpoly);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(coeff);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(combine);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(commutative);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(complex);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(content);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(defmatch);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(deftaylor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(delete);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(depends);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(derivdegree);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(desolve);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(diff);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(display);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(divide);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example("do");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(dotscrules);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(dpart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(echelon);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(eliminate);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(entermatrix);
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+Row 2 Column 1:
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+(2,7);
+/* [wxMaxima: answer  end   ] */
+/* [wxMaxima: question  start ] */
+Row 1 Column 1:
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+(3,5);
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(equations);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ev);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(evaluation);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(evenfun);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(exp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(expand);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(factcomb);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(factor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(factorsum);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(featurep);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(freeof);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(fullmap);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(fullmapl);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(funcsolve);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(functions);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(genmatrix);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(get);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(gfactor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(gradef);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(horner);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example("if");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ilt);
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>Is </st><mi>s</mi><mi>+</mi><mn>55</mn><st> positive, negative or zero?</st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+zero;positive;
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(inpart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(integrate);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(is);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(isolate);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(lambda);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(laplace);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(lassociative);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(let);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(letrules);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(limit);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(linear);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(linsolve);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(listofvars);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(lists);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(logcontract);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(map);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(matchdeclare);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(matrices);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(minfactorial);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(multiplicative);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(multthru);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(nary);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(nounify);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(nroots);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(numfactor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(nusum);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(oddfun);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ode2);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(optimize);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ordergreat);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(orderless);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(outative);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(part);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(partfrac);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(partition);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(pickapart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(poissimp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(polarform);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(poly_discriminant);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(posfun);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(powerseries);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(printprops);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(product);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(properties);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(propvars);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(qunit);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(radcan);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(rank);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(rassociative);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(rat);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example("ratcoeff");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ratdiff);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ratexpand);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ratsimp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ratsubst);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(ratweight);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(realpart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(realroots);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(residue);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(resultant);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(reveal);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(reverse);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(risch);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(rootscontract);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(scanmap);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(scsimp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(solve);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(specint);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(sqfr);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(subst);
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>Is </st><mi>i</mi><st> equal to </st><mi>-</mi><mn>1</mn><st>?</st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+y;
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(substinpart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(substpart);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(sum);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(symmetric);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(syntax);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(taylor);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(taytorat);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(tellrat);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(tellsimp);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(triangularize);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(trig);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(trigexpand);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(trigreduce);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(unorder);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(xthru);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+example(zeroequiv);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$

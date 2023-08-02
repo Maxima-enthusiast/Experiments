@@ -1,0 +1,55 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+[additive,algsys,allroots,antisymmetric,append,arrayinfo,"arrays",at,atvalue,augcoefmatrix,bezout,"block","bothcoeff",catch,cf,cfdisrep,
+    cfexpand,changevar,charpoly,coeff,combine,commutative,complex,content,defmatch,deftaylor,delete,depends,derivdegree,desolve,
+    diff,display,divide,"do","dotscrules",dpart,echelon,eliminate,entermatrix,equations,ev,evaluation,evenfun,exp,expand,factcomb,factor,
+    factorsum,featurep,freeof,fullmap,fullmapl,funcsolve,"functions",genmatrix,get,gfactor,gradef,horner,"if",ilt,inpart,integrate,is,isolate,
+    lambda,laplace,lassociative,let,letrules,limit,linear,linsolve,listofvars,lists,logcontract,map,matchdeclare,matrices,minfactorial,multiplicative,
+    multthru,nary,nounify,nroots,numfactor,nusum,oddfun,ode2,optimize,ordergreat,orderless,outative,part,partfrac,partition,pickapart,poissimp,
+    polarform,poly_discriminant,posfun,powerseries,printprops,product,properties,propvars,qunit,radcan,rank,rassociative,rat,"ratcoeff",ratdiff,
+    "ratexpand",ratsimp,ratsubst,ratweight,realpart,realroots,residue,"resultant",reveal,reverse,risch,rootscontract,scanmap,scsimp,solve,specint,
+    sqfr,subst,substinpart,substpart,sum,symmetric,syntax,taylor,taytorat,tellrat,tellsimp,triangularize,trig,"trigexpand",trigreduce,unorder,xthru,zeroequiv];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+map(apropos, %)$
+block(L1:[],for i from 1 thru length(%) do if length(part(%,i))<=10 then push(part(%th(2),i),L1),reverse(L1))$
+unique(flatten(map(apropos,%)))$
+part(%,[5,7,8,9,10,12,13,15,16,17,19,21,24,25,26,27,29,30,31,33,34,35,38,39,40,41,42,43,45,52,55,56,57,58,59,60,63,64,67,68,69,71,
+        72,73,76,77,79,83,85,87,88,92,94,96,100,101,102,104,107,109,113,114,116,121,123,124,125,126,127,131,132,135,136,137,138,
+    143,144,146,148,150,151,153,155,156,157,158,159,160,161,162,168,169,170,171,172,174,175,176,178,179,184,185,190,191,192,
+    193,194,195,196,197,203,204,207,208,209,210,211,212,213,215,221,222,225,226,231,232]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*map(apropos, %o1)$
+block(L1:[],for i from 1 thru length(%) do push(length(part(%,i)),L1),sort(reverse(L1)));*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*part(%,allbut(8,31,34,64,111));*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*apropos(rat);*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*apropos(at);*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/*part(%,[10,16,17]);*/
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$
