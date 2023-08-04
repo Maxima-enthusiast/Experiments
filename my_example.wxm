@@ -1,7 +1,8 @@
 /* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
 /* [ Created with wxMaxima version 22.04.0 ] */
 /* [wxMaxima: input   start ] */
-/* The list example(), but under the action of symbolp every entry returns true (in the original example() list every antry is a string). Unfortunately equations does not belong to the new list */
+/* The list example(), but under the action of symbolp every entry returns true (in the original example() list every entry is a string). Unfortunately equations does not belong to the new list */
+/* To use type my_example() */
 my_example():=block(L:[],L1:map(length,map(charlist,example())),map(apropos,example()),
 	    makelist(sublist(%%[i],lambda([x],length(charlist(string(x)))=L1[i])),i,1,length(%%)),flatten(%%),sort(%%),rest(%%,3),rest(%%,-9));
 /* [wxMaxima: input   end   ] */
