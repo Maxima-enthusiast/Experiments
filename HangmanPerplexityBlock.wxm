@@ -1,0 +1,77 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.04.0 ] */
+/* [wxMaxima: input   start ] */
+set_random_state(make_random_state(true))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+random_word():=block(
+    words_list:sublist(apropos(""),lambda([x],unique(map(alphacharp,charlist(string(x))))=[true])),
+    len:length(words_list),
+    words_list[random(len)])$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+hangman():=block(
+       /* Choose a random word from the list */
+word:string(random_word()),
+    /* Create a string of underscores */
+hidden_word: makelist("_", slength(word)),
+    /* Set the number of remaining guesses */
+guesses_left: 6,
+    /* Loop until the player wins or loses */
+while (guesses_left > 0 and member("_",hidden_word)) do (
+    /* Display the hidden word and guesses left */
+    print("Hidden word: " , hidden_word),
+    print("Guesses left", guesses_left),
+
+    /* Ask the player to guess a letter */
+    guess: read("Guess a letter: "),
+
+    /* Check if the guessed letter is in the word */
+    if member(guess,charlist(word)) then (
+        /* Replace the corresponding underscore with the guessed letter */
+        for i:1 thru slength(word) do (
+            if (charlist(word)[i] = guess) then (
+                hidden_word[i]: guess
+            )
+        )
+    ) else (
+        /* Subtract one from the number of remaining guesses */
+        guesses_left: guesses_left - 1
+    )
+),
+
+/* Display the result of the game */
+if member("_",hidden_word) then (
+    print("You lost! The word was ", word),
+    apply(describe,[word])
+) else (
+    print("You won! The word was ", word),
+    apply(describe,[word])
+))$
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>Guess a letter: </st><st> </st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+"z";
+/* [wxMaxima: answer  end   ] */
+
+
+/* [wxMaxima: input   start ] */
+hangman();
+/* [wxMaxima: input   end   ] */
+/* [wxMaxima: question  start ] */
+<math><st>Guess a letter: </st><st> </st></math>
+/* [wxMaxima: question  end   ] */
+/* [wxMaxima: answer  start ] */
+"b";
+/* [wxMaxima: answer  end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.04.0"$
