@@ -1,11 +1,14 @@
 /* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
 /* [ Created with wxMaxima version 22.04.0 ] */
 /* [wxMaxima: input   start ] */
+/* From Maxima documentation: "The verb form is distinguished by a leading dollar sign '$' on the corresponding Lisp symbol.  In contrast, the noun form is distinguished by a leading percent sign '%' on the corresponding Lisp symbol." */
+/* So, apropos(%) gives all the noun forms, and other stuff */
 L:apropos(%)$
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
+/* A list of names stable under the action of the apropos operator is constructed and it is, by the way, describable (describe works well as a predicate for that list) */
 block(L1:map(apropos,L),L2:[],for i from 1 thru length(L1) do if subsetp(setify(L1[i]),setify(L))=true then push(L1[i],L2),reverse(L2),
     flatten(%%),sublist(%%,describe));
 /* [wxMaxima: input   end   ] */
