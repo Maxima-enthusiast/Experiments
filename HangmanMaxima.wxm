@@ -2,12 +2,18 @@
 /* [ Created with wxMaxima version 22.04.0 ] */
 /* [wxMaxima: input   start ] */
 set_random_state(make_random_state(true))$
+apropos_words:apropos("")$
 /* [wxMaxima: input   end   ] */
 
 
 /* [wxMaxima: input   start ] */
 random_word():=block(
-    words_list:sublist(apropos(""),lambda([x],unique(map(alphacharp,charlist(string(x))))=[true])),
+    words_list:sublist(
+        apropos_words,
+        lambda([x],
+            every(alphacharp,charlist(string(x)))
+        )
+    ),
     len:length(words_list),
     words_list[random(len)])$
 /* [wxMaxima: input   end   ] */
